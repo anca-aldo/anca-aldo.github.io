@@ -1,5 +1,5 @@
 body{
-    font-family: sans-serif;
+    font-family: Roboto, Helvetica, Arial;
 }
 #container {
     display: flex;
@@ -20,9 +20,18 @@ body{
 
 }
 
+p {
+    margin-bottom: 3em;
+}
+
+.little-question {
+    margin-bottom: 0.4em;
+    font-weight: bold;
+}
+
 #welcome-message {
     padding: 20px;
-    background-color: #eae7ff;
+    /*background-color: #eae7ff;*/
     margin-bottom: 20px;
     text-align: center;
     font-size: 24px;
@@ -31,7 +40,7 @@ body{
 
 #first-part-of-the-story {
     padding: 20px;
-    background-color: aliceblue;
+    /*background-color: aliceblue;*/
     font-size: 20px;
     text-align: center;
 
