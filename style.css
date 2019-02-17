@@ -5,6 +5,17 @@
     margin: auto;
 }
 
+
+@media all and (max-width: 1400px) {
+    #container {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin: auto;
+    }
+
+}
+
 #welcome-message {
     padding: 20px;
     background-color: aliceblue;
