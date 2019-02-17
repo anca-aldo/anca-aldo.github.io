@@ -9,7 +9,7 @@ body{
 }
 
 
-@media all and (max-width: 1400px) {
+@media all and (max-width: 1200px) {
     #container {
         display: flex;
         flex-direction: column;
