@@ -1,0 +1,19 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    width: 600px;
+    margin: auto;
+}
+
+#welcome-message {
+    padding: 20px;
+    background-color: aliceblue;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#first-part-of-the-story {
+    padding: 20px;
+    background-color: palegreen;
+
+}
