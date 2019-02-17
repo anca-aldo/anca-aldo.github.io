@@ -10,10 +10,17 @@
     background-color: aliceblue;
     margin-bottom: 20px;
     text-align: center;
+    font-size: xx-large;
 }
 
 #first-part-of-the-story {
     padding: 20px;
     background-color: palegreen;
 
+}
+
+#happy-picture {
+    padding: 20px;
+    width: 100%;
+    text-align: center;
 }
