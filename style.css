@@ -73,3 +73,16 @@ p {
     /*color: #008800;*/
 
 }
+
+.mexicopicture {
+    padding: 20px;
+    width: 100%;
+    text-align: center;
+}
+
+#mainmexicopicture {
+    width: 70%;
+    margin-left: 15%;
+
+
+}
